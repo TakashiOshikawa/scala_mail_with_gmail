@@ -27,9 +27,15 @@ object Main {
     }
 
     // メール送信
-    val body = Template.listToString(daily_reports)
-    val m = MailSender(InternetAddress.parse("mail-address1@gmail.com, mail-address2@gmail.com"), "from@mail.address.com", new DateTime().toString("yyyyMMdd")+"タイトル", Template.listToString(body).foldLeft("メッセージ<br><br>お疲れ様です。<br><br>%s".format(this.generateTodaysDateMessage))(_+"<br><br><br>"+_).replace("\"", "")+("<br>") )
-    val res = m.send
+    daily_reports match {
+      case dr: List[String] if dr.isEmpty == true  => println("empty")
+      case dr: List[String] if dr.isEmpty == false => {
+        val body = Template.listToString(daily_reports)
+        val m = MailSender(InternetAddress.parse("mail-address1@gmail.com, mail-address2@gmail.com"), "from@mail.address.com", new DateTime().toString("yyyyMMdd")+"タイトル", Template.listToString(body).foldLeft("メッセージ<br><br>お疲れ様です。<br><br>%s".format(this.generateTodaysDateMessage))(_+"<br><br><br>"+_).replace("\"", "")+("<br>") )
+        val res = m.send
+      }
+      case _ => println("Unexpected type")
+    }
   }
 
   // ChatWork APIから日報JSON取得 デフォルト100件

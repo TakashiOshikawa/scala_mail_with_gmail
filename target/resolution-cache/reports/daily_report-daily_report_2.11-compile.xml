@@ -7,27 +7,27 @@
 		revision="1.0"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160306021631"/>
+		date="20160323083054"/>
 	<dependencies>
 		<module organisation="javax.mail" name="mail">
-			<revision name="1.4" status="release" pubdate="20150812120059" resolver="jcenter" artresolver="jcenter" homepage="https://glassfish.dev.java.net/javaee5/mail/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="20">
+			<revision name="1.4" status="release" pubdate="20150812120059" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://glassfish.dev.java.net/javaee5/mail/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="20">
 				<license name="Common Development and Distribution License (CDDL) v1.0" url="https://glassfish.dev.java.net/public/CDDLv1.0.html"/>
-				<metadata-artifact status="successful" details="" size="993" time="706" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/ivy-1.4.xml" searched="true" original-local-location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/ivy-1.4.xml.original" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4.pom"/>
+				<metadata-artifact status="no" details="" size="2801" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/ivy-1.4.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4.pom"/>
 				<caller organisation="daily_report" name="daily_report_2.11" conf="compile" rev="1.4" rev-constraint-default="1.4" rev-constraint-dynamic="1.4" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="mail" type="jar" ext="jar" status="successful" details="" size="388864" time="2757" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/jars/mail-1.4.jar">
+					<artifact name="mail" type="jar" ext="jar" status="no" details="" size="388864" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/jars/mail-1.4.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="javax.activation" name="activation">
-			<revision name="1.1" status="release" pubdate="20080831204538" resolver="jcenter" artresolver="jcenter" homepage="http://java.sun.com/products/javabeans/jaf/index.jsp" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="21">
+			<revision name="1.1" status="release" pubdate="20080831204538" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://java.sun.com/products/javabeans/jaf/index.jsp" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="21">
 				<license name="Common Development and Distribution License (CDDL) v1.0" url="https://glassfish.dev.java.net/public/CDDLv1.0.html"/>
-				<metadata-artifact status="successful" details="" size="1058" time="687" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/ivy-1.1.xml" searched="true" original-local-location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/ivy-1.1.xml.original" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1.pom"/>
+				<metadata-artifact status="no" details="" size="2844" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/ivy-1.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1.pom"/>
 				<caller organisation="javax.mail" name="mail" conf="default, compile, runtime, master" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="1.4"/>
 				<artifacts>
-					<artifact name="activation" type="jar" ext="jar" status="successful" details="" size="62983" time="1000" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/jars/activation-1.1.jar">
+					<artifact name="activation" type="jar" ext="jar" status="no" details="" size="62983" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/jars/activation-1.1.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1.jar"/>
 					</artifact>
 				</artifacts>

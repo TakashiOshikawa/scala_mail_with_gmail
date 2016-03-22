@@ -9,7 +9,7 @@
 [debug] == resolving dependencies for daily_report#daily_report$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52cdc2f0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e9a5acc
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -18,7 +18,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->net.databinder.dispatch#dispatch-core_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving net.databinder.dispatch#dispatch-core_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@614c362b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c908973
 [debug] sbt-chain: module revision found in cache: net.databinder.dispatch#dispatch-core_2.11;0.11.2
 [debug] 	found net.databinder.dispatch#dispatch-core_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->net.databinder.dispatch#dispatch-core_2.11;0.11.2 [compile->runtime]
@@ -26,7 +26,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->net.databinder.dispatch#dispatch-core_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19f35f19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5fd616e9
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime]
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.ning#async-http-client;1.8.10 [compile->default(compile)]
 [info] Resolving com.ning#async-http-client;1.8.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74f400fc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cd44684
 [debug] sbt-chain: module revision found in cache: com.ning#async-http-client;1.8.10
 [debug] 	found com.ning#async-http-client;1.8.10 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.ning#async-http-client;1.8.10 [compile->runtime]
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.ning#async-http-client;1.8.10 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->io.netty#netty;3.9.2.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.9.2.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c7a8b10
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ff2248
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.9.2.Final
 [debug] 	found io.netty#netty;3.9.2.Final in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->io.netty#netty;3.9.2.Final [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->io.netty#netty;3.9.2.Final [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10852272
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@651d1b95
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.5
 [debug] 	found org.slf4j#slf4j-api;1.7.5 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57513fea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b1c6244
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.4.2
 [debug] 	found com.typesafe.play#play-json_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.2 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bc6158e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21f48567
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.4.2
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.2 [compile->runtime]
@@ -74,7 +74,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42021a2e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67dd36fc
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->runtime]
@@ -82,7 +82,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c9d49a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@942a5da
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5af13fcc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23e11396
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.4.2
 [debug] 	found com.typesafe.play#play-functional_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.2 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.2 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.4.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59e5df0a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75776128
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.4.2
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.4.2 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.2 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.2 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.8.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@679e520
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ef4a0c1
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.8.1
 [debug] 	found joda-time#joda-time;2.8.1 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41c64047
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42bc127d
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.7
 [debug] 	found org.joda#joda-convert;1.7 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->runtime]
@@ -122,7 +122,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@707aa096
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ff314ec
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.6
 [debug] 	found org.scala-lang#scala-reflect;2.11.6 in sbt-chain
 [debug] 	[2.11.6] org.scala-lang#scala-reflect;2.11.6
@@ -131,7 +131,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53917659
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13fb43ba
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.5.4 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->runtime]
@@ -139,7 +139,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@579b0670
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2234cd79
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.5.4 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->runtime]
@@ -147,7 +147,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19231263
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ee85665
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.5.4 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->runtime]
@@ -155,7 +155,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6700518d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3044e35b
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->runtime]
@@ -163,7 +163,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63516108
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@257b8af
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->runtime]
@@ -171,7 +171,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->javax.mail#mail;1.4 [compile->default(compile)]
 [info] Resolving javax.mail#mail;1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@555f6025
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cb539c1
 [debug] sbt-chain: module revision found in cache: javax.mail#mail;1.4
 [debug] 	found javax.mail#mail;1.4 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->javax.mail#mail;1.4 [compile->runtime]
@@ -179,7 +179,7 @@
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->javax.mail#mail;1.4 [compile->master]
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->javax.activation#activation;1.1 [compile->default(compile)]
 [info] Resolving javax.activation#activation;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5953f299
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49d1150f
 [debug] sbt-chain: module revision found in cache: javax.activation#activation;1.1
 [debug] 	found javax.activation#activation;1.1 in sbt-chain
 [debug] == resolving dependencies daily_report#daily_report$sources_2.11;1.0->javax.activation#activation;1.1 [compile->runtime]
@@ -1543,38 +1543,26 @@
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4!jackson-datatype-jsr310.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4!jackson-datatype-jsr310.jar
 [debug] 	[NOT REQUIRED] javax.mail#mail;1.4!mail.jar
-[debug] 		tried /Users/oshikawatakashi/.ivy2/local/javax.mail/mail/1.4/srcs/mail-sources.jar
-[debug] 		tried https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4-sources.jar
-[info] downloading https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4-sources.jar
-[info] 	[SUCCESSFUL ] javax.mail#mail;1.4!mail.jar(src) (1746ms)
+[debug] 	[NOT REQUIRED] javax.mail#mail;1.4!mail.jar(src)
 [debug] 	[NOT REQUIRED] javax.activation#activation;1.1!activation.jar
-[debug] 		tried /Users/oshikawatakashi/.ivy2/local/javax.activation/activation/1.1/srcs/activation-sources.jar
-[debug] 		tried https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar
-[info] downloading https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar
-[info] 	[SUCCESSFUL ] javax.activation#activation;1.1!activation.jar(src) (1187ms)
+[debug] 	[NOT REQUIRED] javax.activation#activation;1.1!activation.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 841ms :: artifacts dl 3009ms
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 compile produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-compile.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 runtime produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-runtime.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 test produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-test.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 provided produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-provided.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 optional produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-optional.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 compile-internal produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-compile-internal.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 runtime-internal produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-runtime-internal.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 test-internal produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-test-internal.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 plugin produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-plugin.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 sources produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-sources.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 docs produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-docs.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 pom produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-pom.xml
-[debug] 	report for daily_report#daily_report$sources_2.11;1.0 scala-tool produced in /Users/oshikawatakashi/various/scala_project/daily_report/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-scala-tool.xml
-[debug] 	resolve done (841ms resolve - 3009ms download)
+[debug] :: resolution report :: resolve 726ms :: artifacts dl 73ms
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 compile produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-compile.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 runtime produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-runtime.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 test produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-test.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 provided produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-provided.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 optional produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-optional.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 compile-internal produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-compile-internal.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 runtime-internal produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-runtime-internal.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 test-internal produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-test-internal.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 plugin produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-plugin.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 sources produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-sources.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 docs produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-docs.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 pom produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-pom.xml
+[debug] 	report for daily_report#daily_report$sources_2.11;1.0 scala-tool produced in /Users/oshikawatakashi/various/scala_project/scala_mail_with_gmail/target/resolution-cache/reports/daily_report-daily_report$sources_2.11-scala-tool.xml
+[debug] 	resolve done (726ms resolve - 73ms download)

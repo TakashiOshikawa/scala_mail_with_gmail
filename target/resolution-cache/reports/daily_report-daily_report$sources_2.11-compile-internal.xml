@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160306021641"/>
+		date="20160323083056"/>
 	<dependencies>
 		<module organisation="javax.mail" name="mail">
 			<revision name="1.4" status="release" pubdate="20150812120059" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://glassfish.dev.java.net/javaee5/mail/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="20">
@@ -18,7 +18,7 @@
 					<artifact name="mail" type="jar" ext="jar" status="no" details="" size="388864" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/jars/mail-1.4.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4.jar"/>
 					</artifact>
-					<artifact name="mail" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="465692" time="1746" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/srcs/mail-1.4-sources.jar">
+					<artifact name="mail" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="465692" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.mail/mail/srcs/mail-1.4-sources.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/mail/mail/1.4/mail-1.4-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -33,7 +33,7 @@
 					<artifact name="activation" type="jar" ext="jar" status="no" details="" size="62983" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/jars/activation-1.1.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1.jar"/>
 					</artifact>
-					<artifact name="activation" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="63338" time="1187" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/srcs/activation-1.1-sources.jar">
+					<artifact name="activation" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="63338" time="0" location="/Users/oshikawatakashi/.ivy2/cache/javax.activation/activation/srcs/activation-1.1-sources.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1-sources.jar"/>
 					</artifact>
 				</artifacts>
